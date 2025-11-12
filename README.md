@@ -92,6 +92,7 @@ Set up the S3 trigger to invoke your Lambda function automatically.
 
 **Start Processing of Raw Data**: Now upload the Orders.csv file into the `raw/` folder of the S3 Bucket. This will automatically trigger the Lambda function.
 ---
+<img width="1911" height="1052" alt="image" src="https://github.com/user-attachments/assets/ba85a38e-dc6c-4dd7-9960-b6c005d168a4" />
 
 ## 5. Create a Glue Crawler 🕸️
 
