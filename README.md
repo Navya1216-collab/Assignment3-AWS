@@ -12,6 +12,10 @@ First, set up an S3 bucket with the following folder structure to manage the dat
     * **`enriched/`**: For storing athena query results.
 
 ---
+<img width="1918" height="1053" alt="image" src="https://github.com/user-attachments/assets/2ff16504-9720-47b2-8b06-5707576d19cb" />
+<img width="1910" height="1051" alt="image" src="https://github.com/user-attachments/assets/a5ace5bd-952e-4388-bda7-8cc2511d0402" />
+
+
 
 ## 2. IAM Roles and Permissions 🔐
 
@@ -27,6 +31,10 @@ Create the following IAM roles to grant AWS services the necessary permissions t
     * `AmazonS3FullAccess`
 5.  Give the role a descriptive name (e.g., `Lambda-S3-Processing-Role`) and create it.
 
+
+   <img width="1917" height="1045" alt="image" src="https://github.com/user-attachments/assets/7a6ee6e4-41e8-4cae-b43e-b085563d743a" />
+
+
 ### Glue Service Role
 
 1.  Create another IAM role for **AWS service** with the use case **Glue**.
@@ -35,6 +43,9 @@ Create the following IAM roles to grant AWS services the necessary permissions t
     * `AWSGlueConsoleFullAccess`
     * `AWSGlueServiceRole`
 3.  Name the role (e.g., `Glue-S3-Crawler-Role`) and create it.
+
+<img width="1907" height="1035" alt="image" src="https://github.com/user-attachments/assets/2d7bd3a4-a48c-42e6-9d98-908aa6af4ac8" />
+
 
 ### EC2 Instance Profile
 
@@ -45,6 +56,7 @@ Create the following IAM roles to grant AWS services the necessary permissions t
 3.  Name the role (e.g., `EC2-Athena-Dashboard-Role`) and create it.
 
 ---
+<img width="1912" height="1037" alt="image" src="https://github.com/user-attachments/assets/ce8f49e5-8ab3-4d5f-8843-24ccbcfc2def" />
 
 ## 3. Create the Lambda Function ⚙️
 
