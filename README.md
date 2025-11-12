@@ -136,8 +136,12 @@ Navigate to the **Athena** service. Ensure your data source is set to `AwsDataCa
 
 
 * **Average Order Value (AOV) per Customer**: Find the average amount spent per order for each customer.
+<img width="1916" height="987" alt="image" src="https://github.com/user-attachments/assets/415665d1-9bde-417f-b5f3-998776b54aad" />
+<img width="1905" height="1050" alt="image" src="https://github.com/user-attachments/assets/4b4f3c6e-f609-4dd7-b75f-b0ac1c85c151" />
+
 
 * **Top 10 Largest Orders in February 2025**: Retrieve the highest-value orders from a specific month.
+
 
 ---
 <img width="1903" height="1042" alt="image" src="https://github.com/user-attachments/assets/a7ebb661-986c-4d27-bb03-49ef491bce04" />
