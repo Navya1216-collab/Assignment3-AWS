@@ -123,12 +123,26 @@ Navigate to the **Athena** service. Ensure your data source is set to `AwsDataCa
 
 **Queries to be executed:**
 * **Total Sales by Customer**: Calculate the total amount spent by each customer.
+<img width="1903" height="1032" alt="image" src="https://github.com/user-attachments/assets/992a20eb-ec15-4e70-85f7-c9c047c4d35b" />
+<img width="1907" height="1032" alt="image" src="https://github.com/user-attachments/assets/1f12a81c-ff8c-45cf-bcd7-2a6e690fa763" />
+
+
 * **Monthly Order Volume and Revenue**: Aggregate the number of orders and total revenue per month.
+<img width="1897" height="1047" alt="image" src="https://github.com/user-attachments/assets/48e9a88f-ded1-4741-9fa2-87fba49e1f87" />
+
 * **Order Status Dashboard**: Summarize orders based on their status (`shipped` vs. `confirmed`).
+<img width="1902" height="1060" alt="image" src="https://github.com/user-attachments/assets/93a57b3b-6a06-4360-aa70-5a56bd4d89ee" />
+<img width="1908" height="1053" alt="image" src="https://github.com/user-attachments/assets/9ef5d3ec-73f4-4b3d-9179-c0bae587ffd3" />
+
+
 * **Average Order Value (AOV) per Customer**: Find the average amount spent per order for each customer.
+
 * **Top 10 Largest Orders in February 2025**: Retrieve the highest-value orders from a specific month.
 
 ---
+<img width="1903" height="1042" alt="image" src="https://github.com/user-attachments/assets/a7ebb661-986c-4d27-bb03-49ef491bce04" />
+
+
 
 ## 7. Launch the EC2 Web Server 🖥️
 
