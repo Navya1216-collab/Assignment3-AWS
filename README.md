@@ -171,6 +171,7 @@ This instance will host a simple web page to display the Athena query results.
 8.  Click **Launch instance**.
 
 ---
+<img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/468c765d-b93a-4167-831b-dd564578f286" />
 
 ## 8. Connect to Your EC2 Instance
 
@@ -201,6 +202,9 @@ Once connected via SSH, run the following commands to install the necessary soft
     ```
 
 ---
+<img width="1916" height="1048" alt="image" src="https://github.com/user-attachments/assets/319a9fb9-0d1f-4e20-8013-f987aa1a7768" />
+<img width="1912" height="1096" alt="image" src="https://github.com/user-attachments/assets/cc2d0ea7-e364-4fc4-81a1-f6dd27630876" />
+
 
 ## 10. Create and Configure the Web Application
 
@@ -218,6 +222,8 @@ Once connected via SSH, run the following commands to install the necessary soft
 4.  Save the file and exit `nano` by pressing `Ctrl + X`, then `Y`, then `Enter`.
 
 ---
+<img width="1910" height="1047" alt="image" src="https://github.com/user-attachments/assets/2a55a204-b8f2-4bec-b8ec-e381c84c9bcb" />
+
 
 ## 11. Run the App and View Your Dashboard! 🚀
 
@@ -234,6 +240,8 @@ Once connected via SSH, run the following commands to install the necessary soft
     You should now see your Athena Orders Dashboard!
 
 ---
+<img width="1913" height="1097" alt="image" src="https://github.com/user-attachments/assets/5d41c1d4-d2c2-45a1-a86e-0417850d61be" />
+
 
 ## Important Final Notes
 
