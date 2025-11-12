@@ -144,6 +144,10 @@ Navigate to the **Athena** service. Ensure your data source is set to `AwsDataCa
 
 
 ---
+<img width="1905" height="972" alt="image" src="https://github.com/user-attachments/assets/733bf9c6-6e60-4ac2-bdc9-6e04b79671d5" />
+<img width="1905" height="1041" alt="image" src="https://github.com/user-attachments/assets/2573c314-3c23-4e33-aaed-507fa2ae1a7a" />
+
+
 <img width="1903" height="1042" alt="image" src="https://github.com/user-attachments/assets/a7ebb661-986c-4d27-bb03-49ef491bce04" />
 
 
