@@ -240,7 +240,10 @@ Once connected via SSH, run the following commands to install the necessary soft
     You should now see your Athena Orders Dashboard!
 
 ---
-<img width="1913" height="1097" alt="image" src="https://github.com/user-attachments/assets/5d41c1d4-d2c2-45a1-a86e-0417850d61be" />
+<img width="1893" height="777" alt="image" src="https://github.com/user-attachments/assets/11ce9337-1e9d-4b92-9bc7-4d74d2b76c15" />
+<img width="1913" height="1087" alt="image" src="https://github.com/user-attachments/assets/90d6dd91-cb1e-472e-be40-6f098b284e8b" />
+
+
 
 
 ## Important Final Notes
